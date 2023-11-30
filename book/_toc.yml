@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: content/intro
+title: Introduzione
+parts:
+- caption: Corsi
+  chapters:
+  - file: '../../machine-learning-physics/book/content/intro.md'
+  - file: '../../simulation-methods/book/content/intro.md'
+  
