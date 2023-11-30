@@ -7,6 +7,6 @@ title: Introduzione
 parts:
 - caption: Corsi
   chapters:
-  - file: '../../machine-learning-physics/book/content/intro.md'
-  - file: '../../simulation-methods/book/content/intro.md'
+  - file: 'content/msaf.md'
+  - file: 'content/mmlf.md'
   
