@@ -18,7 +18,7 @@ Il corso si prefigge di fornire le conoscenze di base sulle tecniche di simulazi
 
 Per la fisica delle interazioni fondamentali si acquisiranno competenze in (i) Simulazione del trasporto delle particelle nella materia, (ii) Simulazione dell'interazione e del decadimento di particelle in spazio delle fasi, (iii) Simulazione parametrica di un rivelatore, (iv) Simulazione di un esperimento composto da più rivelatori. 
 
-:::{note} Note e appunti del corso
+:::{admonition} Note e appunti del corso
 :class: tip
 Gli appunti sono disponibili su [Metodi di Simulazione Applicati alla Fisica](https://mattiasotgia.github.io/simulation-methods)
 :::
