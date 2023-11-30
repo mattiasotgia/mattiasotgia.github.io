@@ -28,7 +28,7 @@ Alla fine del corso, studentesse e studenti saranno in grado di
  1. impostare ed implementare in autonomia ogni passo per lo sviluppo di un algoritmo machine learning che sia ottimale per il vostro problema specifico. 
 
 
-:::{note} Note e appunti del corso
+:::{admonition} Note e appunti del corso
 :class: tip
 Gli appunti sono disponibili su [Metodi di Simulazione Applicati alla Fisica](https://mattiasotgia.github.io/simulation-methods)
 :::
