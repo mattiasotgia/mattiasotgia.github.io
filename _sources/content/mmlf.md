@@ -30,5 +30,5 @@ Alla fine del corso, studentesse e studenti saranno in grado di
 
 :::{admonition} Note e appunti del corso
 :class: tip
-Gli appunti sono disponibili su [Metodi di Simulazione Applicati alla Fisica](https://mattiasotgia.github.io/simulation-methods)
+Gli appunti sono disponibili su [Metodi di Machine Learning per la Fisica](https://mattiasotgia.github.io/machine-learning-physics)
 :::
