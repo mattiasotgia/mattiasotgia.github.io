@@ -12,4 +12,7 @@ parts:
 - caption: Contatti
   chapters:
   - file: 'content/info_contact.md'
+  - url: 'mailto:mattiasotgia2@gmail.com'
+    title: '<mattiasotgia2@gmail.com>'
+  - file: 'content/curriculum_vitae.md'
   
