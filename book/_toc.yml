@@ -9,6 +9,7 @@ parts:
   chapters:
   - file: 'content/msaf.md'
   - file: 'content/mmlf.md'
-- chapters:
+- caption: Contatti
+  chapters:
   - file: 'content/info_contact.md'
   
