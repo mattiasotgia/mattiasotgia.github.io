@@ -4,8 +4,8 @@ Nato a Genova il 12 agosto 2001.
 
 ## Contatti
 
-E-mail (personale) [<mattiasotgia2@gmail.com>](mailto:mattiasotgia2@gmail.com)\
-E-mail (università) [<s4942225@studenti.unige.it>](mailto:s4942225@studenti.unige.it)
+E-mail (personale) [\<mattiasotgia2@gmail.com\>](mailto:mattiasotgia2@gmail.com)\
+E-mail (università) [\<s4942225@studenti.unige.it\>](mailto:s4942225@studenti.unige.it)
 
 
 ## Percorso di studi
