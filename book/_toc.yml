@@ -15,6 +15,4 @@ parts:
   - file: 'content/curriculum_vitae.md'
   - url: 'https://twitter.com/mattiasotgia1'
     title: '@mattiasotgia1 (twitter)'
-  - url: 'mailto:mattiasotgia2@gmail.com'
-    title: 'mattiasotgia2 at gmail.com'
   
