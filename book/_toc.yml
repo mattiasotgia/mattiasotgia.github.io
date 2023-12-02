@@ -13,4 +13,6 @@ parts:
   chapters:
   - file: 'content/info_contact.md'
   - file: 'content/curriculum_vitae.md'
+  - url: 'https://twitter.com/mattiasotgia1'
+    title: '@mattiasotgia1 (twitter)'
   
