@@ -7,8 +7,10 @@ title: Introduzione
 parts:
 - caption: Corsi
   chapters:
-  - file: 'content/msaf.md'
-  - file: 'content/mmlf.md'
+  - url: 'https://mattiasotgia.github.io/simulation-methods'
+    title: 'Metodi di Simulazione Applicati alla Fisica'
+  - url: 'https://mattiasotgia.github.io/machine-learning-physics'
+    title: 'Metodi di Machine Learning per la Fisica'
 - caption: Contatti
   chapters:
   - file: 'content/info_contact.md'
