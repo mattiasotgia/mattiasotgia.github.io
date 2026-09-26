@@ -13,7 +13,9 @@ parts:
     title: 'Metodi di Machine Learning per la Fisica'
 - caption: Outreach
   chapters:
-  - file: 'content/international_cosmic_day.md'
+  # - file: 'content/international_cosmic_day.md'
+  - url: 'https://mybinder.org/v2/gh/mattiasotgia/ICD2024/main?urlpath=voila%2Frender%2Fapp.ipynb'
+    title: 'International Cosmic Day application'
 - caption: Contatti
   chapters:
   - file: 'content/info_contact.md'
