@@ -11,6 +11,9 @@ parts:
     title: 'Metodi di Simulazione Applicati alla Fisica'
   - url: 'https://mattiasotgia.github.io/machine-learning-physics'
     title: 'Metodi di Machine Learning per la Fisica'
+- caption: Outreach
+  chapters:
+  - file: 'content/international_cosmic_day.md'
 - caption: Contatti
   chapters:
   - file: 'content/info_contact.md'
