@@ -29,7 +29,7 @@ repository:
 
 html:
   favicon: images/logo/favicon.ico
-  baseurl: https://mattiasotgia.github.io/mattiasotgia.github.io
+  baseurl: '/'
   home_page_in_navbar: false
   use_repository_button: false
   use_issues_button: false
